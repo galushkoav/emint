@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="29.700001cm"
+   height="21cm"
+   viewBox="0 0 297.00001 209.99999"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="схема.svg"
+   inkscape:export-filename="/home/human/Рабочий стол/Ксюша/flowRoot5601-5-0-5.png"
+   inkscape:export-xdpi="113.05141"
+   inkscape:export-ydpi="113.05141">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4719"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4725"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <clipPath
+       id="clipPath4539"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4537"
+         d="m 0,-0.2 841.8,0 0,595.2 L 0,595 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4547"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4545"
+         d="m 50.3,106 720,0 0,435 -720,0 z" />
+    </clipPath>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2-3-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0-7-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2-3-9-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0-7-2-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2-3-9-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0-7-2-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2-3-9-3-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0-7-2-6-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2-3-9-3-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0-7-2-6-94"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2-3-9-3-1-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0-7-2-6-94-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2-3-9-3-1-8-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0-7-2-6-94-4-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2-3-9-3-1-8-0-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0-7-2-6-94-4-3-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2-3-9-3-1-8-0-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0-7-2-6-94-4-3-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2-3-9-3-1-8-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0-7-2-6-94-4-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2-3-9-3-1-8-6-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0-7-2-6-94-4-1-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2-3-9-3-1-8-6-5-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4725-0-7-2-6-94-4-1-4-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="682.02913"
+     inkscape:cy="244.1088"
+     inkscape:document-units="cm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="824"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="cm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="161.87461,116.61825"
+       orientation="1,0"
+       id="guide5580"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="10,266.90159"
+       orientation="1,0"
+       id="guide4319"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="290.00002,267.70792"
+       orientation="1,0"
+       id="guide4321"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="88.377128,165.35074"
+       orientation="0,1"
+       id="guide4427" />
+    <sodipodi:guide
+       position="64.911114,181.02539"
+       orientation="0,1"
+       id="guide4802" />
+    <sodipodi:guide
+       position="44.616196,131.99551"
+       orientation="0,1"
+       id="guide4804" />
+    <sodipodi:guide
+       position="199.67223,155.82698"
+       orientation="0,1"
+       id="guide5471" />
+    <sodipodi:guide
+       position="25.657876,138.28888"
+       orientation="1,0"
+       id="guide4492" />
+    <sodipodi:guide
+       position="64.857409,125.01086"
+       orientation="1,0"
+       id="guide4509" />
+    <sodipodi:guide
+       position="233.4885,140.30476"
+       orientation="1,0"
+       id="guide4556" />
+    <sodipodi:guide
+       position="236.26033,147.5619"
+       orientation="1,0"
+       id="guide4558" />
+    <sodipodi:guide
+       position="21.166668,98.979361"
+       orientation="0,1"
+       id="guide4590" />
+    <sodipodi:guide
+       position="42.383732,130.47738"
+       orientation="1,0"
+       id="guide4592" />
+    <sodipodi:guide
+       position="48.607421,136.12927"
+       orientation="1,0"
+       id="guide4594" />
+    <sodipodi:guide
+       position="105.83334,136.57539"
+       orientation="1,0"
+       id="guide4611" />
+    <sodipodi:guide
+       position="149.67094,190.15335"
+       orientation="1,0"
+       id="guide4700" />
+    <sodipodi:guide
+       position="227.42856,95.789395"
+       orientation="1,0"
+       id="guide5219" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87.000008)">
+    <g
+       clip-path="url(#clipPath4539)"
+       id="g4535"
+       transform="matrix(0.35277777,0,0,-0.35277777,-106.41963,216.59691)" />
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,-126.35283,164.14081)"
+       id="g4420">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.7068097;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5578"
+         width="222.68047"
+         height="58.751923"
+         x="671.15936"
+         y="-193.32957"
+         transform="scale(1,-1)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5601"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.75000002,0,0,-0.75000002,622.09615,301.00965)"><flowRegion
+           id="flowRegion5603"><rect
+             id="rect5605"
+             width="333.57144"
+             height="103.57143"
+             x="176.42857"
+             y="170.3768" /></flowRegion><flowPara
+           id="flowPara5607"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '">Директор</flowPara></flowRoot>    </g>
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5"
+       xml:space="preserve"
+       transform="translate(-19.864742,0.53292292)"><flowRegion
+         id="flowRegion5603-6"><rect
+           style="word-spacing:0px"
+           y="133.72353"
+           x="-15.053563"
+           height="45.292507"
+           width="122.48576"
+           id="rect5605-2" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         id="flowPara5607-9">Начальник </flowPara><flowPara
+         id="flowPara5660"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">аналитического </flowPara><flowPara
+         id="flowPara4800"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">отдела 1 чел.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.28222222,0,0,0.28222222,87.067486,-247.20387)"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-3-5"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-6-6"><rect
+           style="word-spacing:0px"
+           transform="scale(1,-1)"
+           y="-1447.5394"
+           x="-67.755394"
+           height="100.8863"
+           width="266.31934"
+           id="rect5605-2-7-2" /></flowRegion><flowPara
+         id="flowPara4360-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Начальник службы </flowPara><flowPara
+         id="flowPara4391"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">технической </flowPara><flowPara
+         id="flowPara4508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">поддержки 1 чел.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.28222222,0,0,0.28222222,87.228111,-213.71411)"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-3-5-2"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-6-6-7"><rect
+           style="word-spacing:0px"
+           transform="scale(1,-1)"
+           y="-1447.5394"
+           x="-67.755394"
+           height="100.8863"
+           width="266.31934"
+           id="rect5605-2-7-2-0" /></flowRegion><flowPara
+         id="flowPara4391-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Специалист</flowPara><flowPara
+         id="flowPara4794"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">тех. поддержки</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         id="flowPara4426">5 чел.</flowPara></flowRoot>    <rect
+       y="131.63258"
+       x="236.47336"
+       height="18.887661"
+       width="53.374622"
+       id="rect5578-3-6"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.19620357;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.28222222,0,0,0.28222222,194.9305,-245.6392)"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-3-5-0"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-6-6-6"><rect
+           style="word-spacing:0px"
+           transform="scale(1,-1)"
+           y="-1447.5394"
+           x="-67.755394"
+           height="100.8863"
+           width="266.31934"
+           id="rect5605-2-7-2-2" /></flowRegion><flowPara
+         id="flowPara4473"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Руководитель </flowPara><flowPara
+         id="flowPara4510"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Web  проектов</flowPara><flowPara
+         id="flowPara4836"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">3 чел. </flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.28222222,0,0,0.28222222,143.45781,-246.9754)"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-3-5-0-8"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-6-6-6-7"><rect
+           style="word-spacing:0px"
+           transform="scale(1,-1)"
+           y="-1447.5394"
+           x="-67.755394"
+           height="100.8863"
+           width="266.31934"
+           id="rect5605-2-7-2-2-9" /></flowRegion><flowPara
+         id="flowPara4391-1-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Начальник отдела </flowPara><flowPara
+         id="flowPara4506"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">ручного и автоматического тестирования 1 чел.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.28222222,0,0,0.28222222,249.42925,-180.22342)"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-3-5-0-2"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-6-6-6-3"><rect
+           style="word-spacing:0px"
+           transform="scale(1,-1)"
+           y="-1447.5394"
+           x="-67.755394"
+           height="100.8863"
+           width="266.31934"
+           id="rect5605-2-7-2-2-7" /></flowRegion><flowPara
+         id="flowPara4510-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Группа SEO </flowPara><flowPara
+         id="flowPara4541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">продвижения</flowPara><flowPara
+         id="flowPara4543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">2 чел.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.28222222,0,0,0.28222222,46.625381,-210.71195)"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-3-5-0-2-6"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-6-6-6-3-1"><rect
+           style="word-spacing:0px"
+           transform="scale(1,-1)"
+           y="-1447.5394"
+           x="-67.755394"
+           height="100.8863"
+           width="266.31934"
+           id="rect5605-2-7-2-2-7-2" /></flowRegion><flowPara
+         id="flowPara4543-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Бухгалтер</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         id="flowPara4424">1 чел.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.28222222,0,0,0.28222222,46.086339,-246.74204)"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-3-5-0-2-6-4"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-6-6-6-3-1-7"><rect
+           style="word-spacing:0px"
+           transform="scale(1,-1)"
+           y="-1447.5394"
+           x="-67.755394"
+           height="100.8863"
+           width="266.31934"
+           id="rect5605-2-7-2-2-7-2-8" /></flowRegion><flowPara
+         id="flowPara4543-9-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Менеджер по</flowPara><flowPara
+         id="flowPara4620"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">персоналу</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         id="flowPara5386">1 чел.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.35277777,0,0,0.35277777,-92.893785,1120.3164)"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-3-5-0-2-6-4-5"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-6-6-6-3-1-7-0"><rect
+           style="word-spacing:0px"
+           y="-2605.823"
+           x="232.00139"
+           height="80.709038"
+           width="213.05548"
+           id="rect5605-2-7-2-2-7-2-8-3" /></flowRegion><flowPara
+         id="flowPara4620-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Охранник</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         id="flowPara4428">2 чел.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-58.861482,125.28849)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-0"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-63"><rect
+           style="word-spacing:0px"
+           y="170.3768"
+           x="176.42857"
+           height="107.61205"
+           width="284.07394"
+           id="rect5605-2-2" /></flowRegion><flowPara
+         id="flowPara4651-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Аналитик</flowPara><flowPara
+         id="flowPara4798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">2 чел.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.28222222,0,0,0.28222222,218.47056,203.1681)"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-0-5"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-63-5"><rect
+           style="word-spacing:0px"
+           y="-2.7242687"
+           x="-99.103828"
+           height="100.8863"
+           width="266.31934"
+           id="rect5605-2-2-4" /></flowRegion><flowPara
+         id="flowPara4651-1-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Программист</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         id="flowPara4430">31 чел.</flowPara><flowPara
+         id="flowPara4714"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle" /></flowRoot>    <flowRoot
+       transform="matrix(0.28222222,0,0,0.28222222,179.05688,203.05771)"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-0-5-6"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-63-5-5"><rect
+           style="word-spacing:0px"
+           y="-2.7242687"
+           x="-99.103828"
+           height="100.8863"
+           width="266.31934"
+           id="rect5605-2-2-4-6" /></flowRegion><flowPara
+         id="flowPara4714-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Дизайнер</flowPara><flowPara
+         id="flowPara4796"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">4 чел.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.28222222,0,0,0.28222222,245.15356,-247.73568)"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-3-5-2-4"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-6-6-7-7"><rect
+           style="word-spacing:0px"
+           transform="scale(1,-1)"
+           y="-1447.5394"
+           x="-67.755394"
+           height="100.8863"
+           width="266.31934"
+           id="rect5605-2-7-2-0-4" /></flowRegion><flowPara
+         id="flowPara4391-3-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Начальник отдела </flowPara><flowPara
+         id="flowPara4788"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">системного </flowPara><flowPara
+         id="flowPara4838"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">администрирования 1 чел. </flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.35277777,0,0,0.35277777,88.65048,706.12747)"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-3-0"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-6-7"><rect
+           style="word-spacing:0px"
+           y="-1525.3928"
+           x="247.45764"
+           height="80.709038"
+           width="213.05548"
+           id="rect5605-2-7-8" /></flowRegion><flowPara
+         id="flowPara5660-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Начальник </flowPara><flowPara
+         id="flowPara4360-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">группы разработок</flowPara><flowPara
+         id="flowPara4653-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">4 чел. </flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.28222222,0,0,0.28222222,242.65256,-212.01763)"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-3-5-2-43-6"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-6-6-7-1-8"><rect
+           style="word-spacing:0px"
+           transform="scale(1,-1)"
+           y="-1447.5394"
+           x="-67.755394"
+           height="100.8863"
+           width="266.31934"
+           id="rect5605-2-7-2-0-49-9" /></flowRegion><flowPara
+         id="flowPara4794-0-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Системный </flowPara><flowPara
+         id="flowPara4869-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">администратор</flowPara><flowPara
+         id="flowPara4905"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">5 чел.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5378"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion5380"><rect
+           id="rect5382"
+           width="61.42857"
+           height="78.571434"
+           x="220"
+           y="255.52306" /></flowRegion><flowPara
+         id="flowPara5384" /></flowRoot>    <rect
+       y="131.71806"
+       x="191.57022"
+       height="18.90991"
+       width="41.906399"
+       id="rect5578-3-6-4"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17395437;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="131.97202"
+       x="134.72491"
+       height="18.886013"
+       width="54.280121"
+       id="rect5578-3-6-4-9"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.19785224;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="131.51729"
+       x="84.609001"
+       height="18.908257"
+       width="42.711094"
+       id="rect5578-3-6-4-9-5"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1756089;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="131.80893"
+       x="48.584496"
+       height="18.929758"
+       width="32.854816"
+       id="rect5578-3-6-4-9-5-0"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15410705;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="131.60669"
+       x="10.080674"
+       height="18.931055"
+       width="32.30175"
+       id="rect5578-3-6-4-9-5-0-4"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15280968;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.28222222,0,0,0.28222222,143.35942,-213.51702)"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-3-5-2-3"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5603-6-6-6-7-6"><rect
+           style="word-spacing:0px"
+           transform="scale(1,-1)"
+           y="-1447.5394"
+           x="-67.755394"
+           height="100.8863"
+           width="266.31934"
+           id="rect5605-2-7-2-0-7" /></flowRegion><flowPara
+         id="flowPara4391-3-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">Специалист</flowPara><flowPara
+         id="flowPara4794-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle">тестирования ПО</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         id="flowPara4426-5">5 чел.</flowPara></flowRoot>    <rect
+       y="165.51671"
+       x="10.271729"
+       height="18.931664"
+       width="32.04372"
+       id="rect5578-3-6-4-9-5-6"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15220058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="165.24333"
+       x="84.126823"
+       height="18.908257"
+       width="42.711094"
+       id="rect5578-3-6-4-9-5-6-2"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1756089;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="165.27753"
+       x="48.75462"
+       height="18.931664"
+       width="32.04372"
+       id="rect5578-3-6-4-9-5-6-9"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15220058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="198.20325"
+       x="247.84555"
+       height="18.910011"
+       width="41.857586"
+       id="rect5578-3-6-4-9-5-6-9-1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1738535;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g4691"
+       transform="translate(-44.758737,0.14254331)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5601-5-3-5-2-43"
+         style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.28222222,0,0,0.28222222,165.00836,-180.61429)"><flowRegion
+           id="flowRegion5603-6-6-6-7-1"><rect
+             id="rect5605-2-7-2-0-49"
+             width="266.31934"
+             height="100.8863"
+             x="-67.755394"
+             y="-1447.5394"
+             transform="scale(1,-1)"
+             style="word-spacing:0px" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+           id="flowPara4794-0">Системный </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+           id="flowPara4871">администратор</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+           id="flowPara4869">web проектов 1 чел.</flowPara></flowRoot>      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.19802828;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5578-3-6-4-9-5-6-9-1-2"
+         width="54.377258"
+         height="18.885836"
+         x="156.04681"
+         y="198.44321" />
+    </g>
+    <rect
+       y="165.24257"
+       x="191.60403"
+       height="18.909773"
+       width="41.972466"
+       id="rect5578-3-6-4-9-5-6-9-1-2-7"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17409082;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="165.09151"
+       x="236.52501"
+       height="18.887844"
+       width="53.274014"
+       id="rect5578-3-6-0"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.19601953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="198.2482"
+       x="172.9637"
+       height="18.931664"
+       width="32.04372"
+       id="rect5578-3-6-4-9-5-6-93"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15220058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="198.04663"
+       x="211.46689"
+       height="18.931664"
+       width="32.04372"
+       id="rect5578-3-6-4-9-5-6-9-6"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15220058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="165.33795"
+       x="134.33757"
+       height="18.886013"
+       width="54.280121"
+       id="rect5578-3-6-4-9-0"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.19785224;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="198.15923"
+       x="10.549322"
+       height="18.931664"
+       width="32.04372"
+       id="rect5578-3-6-4-9-5-6-6"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15220058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="198.58687"
+       x="47.040466"
+       height="18.931664"
+       width="32.04372"
+       id="rect5578-3-6-4-9-5-6-6-2"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15220058;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5601-5-3-5-0-2-6-4-5-6"
+       xml:space="preserve"
+       transform="matrix(0.28222222,0,0,0.28222222,53.952861,201.45987)"><flowRegion
+         id="flowRegion5603-6-6-6-6-3-1-7-0-1"><rect
+           style="word-spacing:0px"
+           y="-7.3014998"
+           x="-99.136444"
+           height="100.8863"
+           width="266.31934"
+           id="rect5605-2-7-2-2-7-2-8-3-8" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         id="flowPara4428-9">Заведующий</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         id="flowPara4689">хозяйством</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:18.89763832px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         id="flowPara4687">1чел.</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.657874,123.6668 237.917516,0.57288 0,0"
+       id="path4702"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Send)"
+       d="m 25.657874,123.63116 0,8.01809"
+       id="path4704"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2)"
+       d="m 64.928678,123.68837 0,8.01809"
+       id="path4704-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-3)"
+       d="m 105.83873,123.54583 0,8.01809"
+       id="path4704-2-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-3-9)"
+       d="m 161.85843,123.90218 0,8.01809"
+       id="path4704-2-5-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26119342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-3-9-8)"
+       d="m 149.7422,116.63245 0,6.97717"
+       id="path4704-2-5-2-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.27243558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-3-9-3)"
+       d="m 213.29873,123.89937 0,7.59071"
+       id="path4704-2-5-2-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26419285;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-3-9-3-2)"
+       d="m 263.66449,124.14539 0,7.13833"
+       id="path4704-2-5-2-1-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.36634409;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-3-9-3-1)"
+       d="m 265.87973,150.45747 0,13.72566"
+       id="path4704-2-5-2-1-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.36634409;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-3-9-3-1-8)"
+       d="m 213.07778,150.61967 0,13.72566"
+       id="path4704-2-5-2-1-7-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.36634409;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-3-9-3-1-8-0)"
+       d="m 161.77381,150.72046 0,13.72566"
+       id="path4704-2-5-2-1-7-5-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.36634409;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-3-9-3-1-8-0-1)"
+       d="m 105.93413,150.61967 0,13.72566"
+       id="path4704-2-5-2-1-7-5-6-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.36634409;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-3-9-3-1-8-0-3)"
+       d="m 25.702381,150.67006 0,13.72566"
+       id="path4704-2-5-2-1-7-5-6-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.27134624;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-3-9-3-1-8-6)"
+       d="m 188.7992,190.46271 0,7.53013"
+       id="path4704-2-5-2-1-7-5-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.27134624;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-3-9-3-1-8-6-5)"
+       d="m 227.64238,190.00898 0,7.53013"
+       id="path4704-2-5-2-1-7-5-5-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 188.65665,190.306 38.98571,0.0713"
+       id="path5221"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.23788106;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-3-9-3-1-8-6-5-6)"
+       d="m 212.67527,184.16468 0,5.78728"
+       id="path4704-2-5-2-1-7-5-5-7-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 289.78174,209.6119 3.52778,0 -0.23958,-85.58874"
+       id="path5244"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 292.92739,124.1657 -29.43527,0"
+       id="path5246"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.10317,198.02063 0,-8.86984 -9.67619,0 0.20159,-31.44762 82.24762,-0.20158"
+       id="path5248"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.27744809px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 47.015657,208.39698 -4.032345,0.0301"
+       id="path5250"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 64.857404,198.35973 -0.142542,-8.55263 -60.2204108,0.15984 -0.2850873,-66.71048 21.7335981,-0.0173 0,0"
+       id="path5252"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 64.608729,165.1619 0.100793,-7.66032 -60.5769824,-0.10079"
+       id="path5256"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
